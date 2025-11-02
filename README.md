@@ -66,19 +66,6 @@ The models are evaluated using:
 
 ---
 
-## **Forecasts**
-
-Example: Forecast for the next month:
-
-- Moving Average: `x`  
-- ARIMA: `x`  
-- Holt-Winters: `x`  
-- Random Forest: `x`  
-- LSTM: `x`  
-
-*(Replace `x` with actual forecast values from your notebook.)*
-
----
 
 ## **How to Run**
 
